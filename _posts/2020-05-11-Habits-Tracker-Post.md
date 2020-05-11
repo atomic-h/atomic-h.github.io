@@ -2,7 +2,7 @@
 title: "Developing small everyday tasks"
 date: 2020-05-11 21:03:08 +0200
 author: SG
-categories: ["etc", "everyday"]
+categories: ["etc", "everyday", "home"]
 tags: [everyday, notes]
 ---
 

@@ -2,7 +2,7 @@
 title: "Random Doodles"
 date: 2020-05-01 00:03:08 +0200
 author: SG
-categories: ["etc", "doodles"]
+categories: ["etc", "doodles", "home"]
 tags: [etc]
 ---
 
