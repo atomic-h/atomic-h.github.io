@@ -1,5 +1,5 @@
 ---
-title: "Short Notes 2"
+title: "Building a simple system"
 date: 2020-05-13 20:00:08 +0200
 author: SG
 categories: ["etc", "notes"]
@@ -17,3 +17,8 @@ The system will keep on evolving but what I am aiming for the system as of today
 The system is simple right now, I am becoming the person (look, the idea of "becoming the person" is to pick identity) that decides a small set of tasks everday, tries to do them everyday and then collect compound returns from them over a long time :)
 
 I'll keep the system very simple for a few weeks, and evolve it as it demands to :)
+
+One important thing to always remember is that there is always room for improvment, you can always be better and there is never a time to not be humble.
+
+Reference: First few chapters of "Atomic Habits" by James Clear
+
